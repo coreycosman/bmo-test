@@ -15,9 +15,5 @@
   I would consider adding the option to search by other parameters than address upon landing. It might be nicer for users to arriver and type a specific restuarant, or food, into the search bar (perhaps if location was not a current priority for them) rather than being limited only searching by address. This may more efficiently take a user where they are looking to go on the app.
 
 5) Please describe yourself using JSON.
-{
-  "about": "I am a Full-Stack Web/Mobile Software Developer and Musician",
-  "excitement-about-technology": "Technology is resourceful human innovation. It has and always will be a beautiful intersection between art and science that provides hardware and software instrumentation to better the Earth and the lives of organisms living among it. Its applications are as infinite as the knowledge and inquiry it is based upon, and it continues its developmental feedback loop, always fractalling outward. Its contributions to art and science are ineffable.",
-  "tech-stack": "My preferred tech stack right now is the JavaScript/TypeScript full-stack. I use MongoDB/Postgres/Redis for database storage/caching, Node/Express for serving http requests, React/ReactNative/Redux/GraphQL/Apollo for the client side interface, Jest/Mocha/Chai/Supertest/Selenium-WedDriver/Cypress/Cucumber/Enzyme for unit, integration, and feature/e2e testing, and Docker/Kubernetes/AWS/DigitalOcean/Nginx/Apache for DevOps. I practice agile methodologies and have a preference for microservice architechture. I am excited to learn more!",
-  "tech-related-interests?": "I am interested in all areas of software programming/engineering as well as electrical engineering via electronic hardware design. I am in the process of learning to build my own electronic audio hardware circuits. I am also learning to build software to interface with Raspberry Pi/Arduino hardware for audio/visual applications via Java. I am interested in DSP and am learning the basics of sound design with JavaScript and eventually want to learn how to use C++ for DSP. I am also interested in blockchain technology and am in the process of building my first blockchain and smart contract with Python (though I would like to eventually move to Golang/Rust for this)."
-}
+
+  Please see './describe-self-in-json.json'
