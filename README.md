@@ -10,7 +10,7 @@ Steps to run locally (assuming the repo has been pulled down from github and is 
 
 * This repository uses node@10.11.0 and npm@6.13.4
 
-* This repository uses version 79.0.0 of chromedriver and therefore, google chrome needs to be on version 79 for chromium to work
+* This repository uses version 79.0.0 of chromedriver and therefore, google chrome needs to be on any version of 79 for chromedriver to work
 
 1) npm install
 2) npm run cucumber
