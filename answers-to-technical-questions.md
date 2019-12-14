@@ -4,7 +4,7 @@
 
 2) What do you think is the most interesting trend in test automation?
 
-  I have recently discovered smoke testing and would like to dive into that on a deeper level. I think the concept of testing system robustness and stress durability is very interesting and important. I am also very interesting in BDD and would like to get back into it, as I have been doing more TDD lately. I am curious about the effectiveness and development of AI powered automation testing, which I know very little about, but seems to be a well visited area of inquiry. 
+  I have recently discovered smoke testing and would like to dive into that on a deeper level. I think the concept of testing system robustness and stress durability is very interesting and important. I am also very interested in BDD and would like to get back into it, as I have been doing more TDD lately. I am curious about the effectiveness and development of AI powered automation testing, which I know very little about, but seems to be a well visited area of inquiry. 
 
 3) How would you implement test automation in a legacy application? Have you ever had to do this?
   
@@ -12,7 +12,7 @@
 
 4) How would you improve the customer experience of the JUST EAT website?
   
-  I would consider adding the option to search by other parameters than address upon landing. It might be nicer for users to arriver and type a specific restuarant, or food, into the search bar (perhaps if location was not a current priority for them) rather than being limited only searching by address. This may more efficiently take a user where they are looking to go on the app.
+  I would consider adding the option to search by other parameters than address upon landing. It might be nicer for users to arrive and type a specific restuarant, or food, into the search bar (perhaps if location was not a current priority for them) rather than being limited only searching by address. This may more efficiently take a user where they are looking to go on the app.
 
 5) Please describe yourself using JSON.
 
