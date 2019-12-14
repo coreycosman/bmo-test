@@ -8,6 +8,8 @@ Here are your requested step definitions (to some degree of completion) to test 
 
 Steps to run locally (assuming the repo has been pulled down from github and is the current working directory of the local machine):
 
+* This repository uses node@10.11.0 and npm@6.13.4
+
 * This repository uses version 79.0.0 of chromedriver and therefore, google chrome needs to be on version 79 for chromium to work
 
 1) npm install
